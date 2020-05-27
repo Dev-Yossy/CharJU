@@ -15,7 +15,7 @@ echo Usage: char [option] charset
 echo Option:
 echo.  --HELP, -H, ?                             Show help.
 echo Charset:
-echo.  UTF-8, UTF8, UTF, U8 U8                   Use charset UTF-8.
+echo.  UTF-8, UTF8, UTF, U8 U                    Use charset UTF-8.
 echo.  Shift-JIS, ShiftJIS, SJIS, JIS, SJ, S     Use charset Shift-JIS.
 
 goto end
